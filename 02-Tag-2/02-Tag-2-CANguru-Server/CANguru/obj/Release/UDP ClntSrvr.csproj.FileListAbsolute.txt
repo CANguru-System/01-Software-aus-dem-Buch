@@ -1,0 +1,21 @@
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.exe.config
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.exe
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.pdb
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\zlib.net.dll
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csprojAssemblyReference.cache
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP_Client.Form1.resources
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP_ClntSrvr.Properties.Resources.resources
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csproj.GenerateResource.cache
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csproj.CoreCompileInputs.cache
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csproj.CopyComplete
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.exe
+C:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.pdb
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.exe.config
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.exe
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\bin\Release\UDP ClntSrvr.pdb
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP_ClntSrvr.Form1.resources
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP_ClntSrvr.Properties.Resources.resources
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csproj.GenerateResource.Cache
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.exe
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.pdb
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClntSrvr\UDP ClntSrvr\obj\Release\UDP ClntSrvr.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\bin\Release\UDP ClientServer.exe.config
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\bin\Release\UDP ClientServer.exe
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\bin\Release\UDP ClientServer.pdb
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP_Client.Form1.resources
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP_ClientServer.Properties.Resources.resources
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP ClientServer.csproj.GenerateResource.Cache
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP ClientServer.exe
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP ClientServer.pdb
+D:\DE038\OneDrive - OOO\02 ETHERNET\UDP ClientServer\UDP ClientServer\obj\Release\UDP ClientServer.csprojResolveAssemblyReference.cache
