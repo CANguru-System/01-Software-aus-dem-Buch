@@ -40,3 +40,14 @@ D:\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2
 D:\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Release\CANguru.exe
 D:\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Release\CANguru.pdb
 E:\365\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Release\CANguru.csprojAssemblyReference.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Release\CANguru.exe.config
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Release\CANguru.exe
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Release\CANguru.pdb
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.csprojAssemblyReference.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguruX.Form1.resources
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\UDP_ClntSrvr.Properties.Resources.resources
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.csproj.GenerateResource.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.csproj.CoreCompileInputs.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.csproj.CopyComplete
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.exe
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Release\CANguru.pdb

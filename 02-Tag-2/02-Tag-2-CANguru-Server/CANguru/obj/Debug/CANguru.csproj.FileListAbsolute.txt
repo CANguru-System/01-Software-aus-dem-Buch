@@ -7,3 +7,13 @@ E:\365\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 T
 E:\365\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Debug\CANguru.csproj.GenerateResource.cache
 E:\365\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Debug\CANguru.exe
 E:\365\OneDrive - implement mission-critical ROI\08 Downloadbereich CANguru\02 Tag 2 CANguru-Bridge & Server\CANguru-Server\CANguru\obj\Debug\CANguru.pdb
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Debug\CANguru.exe.config
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Debug\CANguru.exe
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\bin\Debug\CANguru.pdb
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguru.csprojAssemblyReference.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguruX.Form1.resources
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\UDP_ClntSrvr.Properties.Resources.resources
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguru.csproj.GenerateResource.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguru.csproj.CoreCompileInputs.cache
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguru.exe
+C:\OneDrive - Moe, Inc\09 Github CANguru-System\01-Software-aus-dem-Buch\02-Tag-2\02-Tag-2-CANguru-Server\CANguru\obj\Debug\CANguru.pdb
